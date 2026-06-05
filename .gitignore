@@ -16,6 +16,6 @@ slprj/
 # 4. 忽略临时工作区数据和会话状态
 # 注意：如果你的某个 .mat 文件包含模型必需的初始参数，请将其特例排除
 Untitled.mat
-*_sdosession.mat
+#*_sdosession.mat
 # *.mat  # 如果你想忽略所有 .mat 数据文件，可以取消这行的注释
 *.autosave
